@@ -1,5 +1,6 @@
 package ch.hesge.cours634.counter;
 
+
 public interface ICounter {
     void inc() throws CounterException;
 
